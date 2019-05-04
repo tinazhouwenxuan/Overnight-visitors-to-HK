@@ -1,0 +1,57 @@
+year,region,total_visitor,length_of_stay,per_capita_spending_overnight,per_capita_spending_same_day
+2011,The Americas,1821096 ,3.9,7004 ,465 
+2012,The Americas,1777842 ,4.0,7266 ,451 
+2013,The Americas,1665562 ,4.0,7300 ,379 
+2014,The Americas,1679083 ,4.0,7151 ,455 
+2015,The Americas,1728094 ,3.9,6737 ,458 
+2016,The Americas,1773338 ,3.9,6196 ,413 
+2017,The Americas,1781819 ,3.8,6184 ,378 
+2011,"Europe, Africa& the Middle East",2194319 ,4.0,7147 ,593 
+2012,"Europe, Africa& the Middle East",2227994 ,4.0,7414 ,411 
+2013,"Europe, Africa& the Middle East",2253681 ,4.1,7400 ,465 
+2014,"Europe, Africa& the Middle East",2218382 ,4.1,7250 ,438 
+2015,"Europe, Africa& the Middle East",2167119 ,4.1,6412 ,510 
+2016,"Europe, Africa& the Middle East",2226455 ,4.1,5999 ,515 
+2017,"Europe, Africa& the Middle East",2202302 ,4.0,5862 ,520 
+2011,"Australia, New Zealand & South Pacific",757871 ,3.8,7849 ,714 
+2012,"Australia, New Zealand & South Pacific",740795 ,3.9,7943 ,623 
+2013,"Australia, New Zealand & South Pacific",717419 ,3.9,7959 ,532 
+2014,"Australia, New Zealand & South Pacific",715479 ,3.9,7558 ,474 
+2015,"Australia, New Zealand & South Pacific",681162 ,3.9,6530 ,491 
+2016,"Australia, New Zealand & South Pacific",684046 ,3.8,6636 ,534 
+2017,"Australia, New Zealand & South Pacific",687127 ,3.8,6500 ,487 
+2011,North Asia,2304683 ,2.3,5113 ,506 
+2012,North Asia,2333060 ,2.3,5234 ,503 
+2013,North Asia,2140576 ,2.3,4821 ,518 
+2014,North Asia,2329813 ,2.3,4502 ,442 
+2015,North Asia,2292565 ,2.3,4156 ,441 
+2016,North Asia,2484696 ,2.3,3839 ,425 
+2017,North Asia,2717680 ,2.2,3978 ,374 
+2011,South & Southeast Asia,3751149 ,3.2,6121 ,716 
+2012,South & Southeast Asia,3651803 ,3.2,6501 ,604 
+2013,South & Southeast Asia,3717976 ,3.3,6678 ,676 
+2014,South & Southeast Asia,3614789 ,3.4,6735 ,709 
+2015,South & Southeast Asia,3559058 ,3.4,6255 ,630 
+2016,South & Southeast Asia,3701796 ,3.5,5638 ,685 
+2017,South & Southeast Asia,3626158 ,3.5,5687 ,752 
+2011,Taiwan,2148733 ,2.5,5860 ,627 
+2012,Taiwan,2088745 ,2.6,5759 ,521 
+2013,Taiwan,2100098 ,2.6,5730 ,565 
+2014,Taiwan,2031883 ,2.6,5598 ,596 
+2015,Taiwan,2015797 ,2.6,5092 ,587 
+2016,Taiwan,2011428 ,2.6,4585 ,611 
+2017,Taiwan,2010755 ,2.7,4758 ,553 
+2011,The mainland of China,28100129 ,3.9,8220 ,2439 
+2012,The mainland of China,34911395 ,3.7,8565 ,2489 
+2013,The mainland of China,40745277 ,3.4,8937 ,2721 
+2014,The mainland of China,47247675 ,3.3,8703 ,2701 
+2015,The mainland of China,45842360 ,3.2,7924 ,2696 
+2016,The mainland of China,42778145 ,3.2,7275 ,2377 
+2017,The mainland of China,44445259 ,3.1,7010 ,2298 
+2011,Macao,843330 ,2.2,4363 ,2287 
+2012,Macao,882942 ,2.2,4304 ,1783 
+2013,Macao,957866 ,2.2,3918 ,2065 
+2014,Macao,1001502 ,2.2,3875 ,2058 
+2015,Macao,1021283 ,2.2,4383 ,1818 
+2016,Macao,994822 ,2.2,3886 ,1799 
+2017,Macao,1000967 ,2.2,3979 ,1807 
